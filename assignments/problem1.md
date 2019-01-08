@@ -4,13 +4,13 @@
 _Figure Number_
 
 
-##Outcomes
+## Outcomes
 
 * Associate a common list of instructions to parts of a computer program
 * Identify any underlying assumptions in our thinking
 
 
-##Procedure
+## Procedure
 
 \item{Look at the figure.}
 \item{Write a step-by-step procedure that would allow someone to redraw your figure (\emph{no pictures}). Try to limit one yourself to ONE action per step}
@@ -19,7 +19,7 @@ _Figure Number_
 \item{Compare your reconstruction to the original.}
 
 
-##Questions
+## Questions
 
 1. When writing instructions, did you use any conventions to shorten or simplify your written instructions?
 1. Did you repeat any instructions?
