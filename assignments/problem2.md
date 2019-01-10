@@ -18,7 +18,8 @@ that it orbits the planet once every \(T\) seconds.
 
 1.  <span>Show that the altitude \(h\) *above the Earth’s surface* the
     satellite must have is
-    $$h = \left(\frac{GMT^2}{4\pi^2}\right)^{1/3} - R,$$ where \(G\) is
+   <a href="https://www.codecogs.com/eqnedit.php?latex=h&space;=&space;\left(\frac{GMT^2}{4\pi^2}\right)^{1/3}&space;-&space;R," target="_blank"><img src="https://latex.codecogs.com/gif.latex?h&space;=&space;\left(\frac{GMT^2}{4\pi^2}\right)^{1/3}&space;-&space;R," title="h = \left(\frac{GMT^2}{4\pi^2}\right)^{1/3} - R," /></a>
+  where \(G\) is
     Newton’s gravitational constant, \(M\) is the mass of the Earth, and
     \(R\) is the radius of the Earth. </span>
 
