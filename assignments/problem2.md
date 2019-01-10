@@ -16,10 +16,10 @@ that it orbits the planet once every \(T\) seconds.
 
 ## Procedure
 
-1.  <span>Show that the altitude \(h\) *above the Earthís surface* the
+1.  <span>Show that the altitude \(h\) *above the Earth‚Äôs surface* the
     satellite must have is
-    \[h = \left(\frac{GMT^2}{4\pi^2}\right)^{1/3} - R,\] where \(G\) is
-    Newtonís gravitational constant, \(M\) is the mass of the Earth, and
+    $$h = \left(\frac{GMT^2}{4\pi^2}\right)^{1/3} - R,$$ where \(G\) is
+    Newton‚Äôs gravitational constant, \(M\) is the mass of the Earth, and
     \(R\) is the radius of the Earth. </span>
 
 2.  <span>Write a program in MATLAB that asks the user to enter the
@@ -34,11 +34,11 @@ that it orbits the planet once every \(T\) seconds.
 
 1.  <span>Use your **programs** (yes, check that they give the same
     answers) to calculate the altitudes of satellites that orbit the
-    Earth once a day (ìgeosynchronousî satellites), once every 90
+    Earth once a day (‚Äúgeosynchronous‚Äù satellites), once every 90
     minutes, and once every 45 minutes. What do you conclude from the
-    last of these numbers about the period of satellites? If youíre not
+    last of these numbers about the period of satellites? If you‚Äôre not
     sure (or even if you are) plot \(h\) vs \(T\) (*whoa\! whoa\! How do
-    we plot? We havenít talked about this...*). What does the plot seem
+    we plot? We haven‚Äôt talked about this...*). What does the plot seem
     to indicate? </span>
 
 2.  <span>Technically a geosynchronous satellite orbits the Earth once
