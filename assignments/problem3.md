@@ -1,16 +1,16 @@
-Problem \#3 *G'on Git!* {#problem-3-gon-git .unnumbered}
+Problem \#3 *G'on Git!* 
 =======================
 
 **NAME**:
 
-Outcomes {#outcomes .unnumbered}
+Outcomes 
 --------
 
 -   Create repositories on GitHub
 
 -   Push updates up to the Github site
 
-Problem {#problem .unnumbered}
+Problem 
 -------
 
 From now on, we need to share files in a way that allows the most
@@ -55,7 +55,7 @@ find the easiest way for you**
 5.  Finally, push these modified files up to you GitHub repository and
     check at `github.com` that you were successful
 
-References {#references .unnumbered}
+References 
 ----------
 
 <https://help.github.com/desktop/guides/getting-started-with-github-desktop/>\
