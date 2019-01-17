@@ -20,7 +20,7 @@ Instead containing or representing one value, arrays can contain many values, of
 
 3.  Each script contains code that will load the data from `smallperiodictable.xx` into MATLAB or spyder. Once `loadmat.m` is executed, MATLAB should have 7 columns containing the names, atomic weights, atomic numbers, symbols, densities, number of isotopes, and discovery year for the first 99 elements of the periodic table. Once `loadtext.py` Spyder should contain 1 data structure with the same data about the first 99 elements of the periodic table.
 
-4.  Use indexing (no `if` or `for` loops) to answer the questions below. Your programs should answer this questions when run, you should NOT be typing out the answers.
+4.  Use indexing (no `if` or `for` loops) to answer the questions below. Your programs (yes, create a MATLAB and Python program) should answer this questions when run, you should NOT be typing out the answers.
 
 Questions 
 -------
