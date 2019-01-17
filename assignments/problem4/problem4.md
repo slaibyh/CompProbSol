@@ -31,3 +31,4 @@ Questions
 
 3. How many elements were discovered before 1900? List those elements.
 
+4. Is there a clear relationship between atomic weight and density? Show me a graph to answer the question.
