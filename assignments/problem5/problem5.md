@@ -8,5 +8,5 @@ Importing and processing data is an important skill to master, especially if you
  
 1. Import the data from the *Historic Budget* sheet in the `GlobalCarbonBudget2018.xlsx` and the first two columns (year and average global temperature) from `GlobalTempbyYear.txt`. (Note the first year in `GlobalTempbyYear.txt` is 1850. )
 1. Calculate the **cumulative sum** of the columns labeled `fossil fuel and industry` and `land-use change emissions` in `GlobalCarbonBudget2018.xlsx` through the years starting with the year 1850. This cumulative sum of carbon emissions should still have values for each year. For instance, the value for 1860 should be the sum of all carbon emissions from 1850 to 1860 (you may want to look at the function `cumsum` in MATLAB and its counterpart in `numpy`)
-1. Produce 2 graphs: One plotting the global temperature and the cumulative sum of carbon emissions vs the year and one plotting global temperature vs the cumulative sum of carbon emissions.  
+1. Produce 2 graphs: One plotting the global temperature and the cumulative sum of carbon emissions vs the year **on the same plot using two y axes** and one plotting global temperature vs the cumulative sum of carbon emissions.  
 1. Save these three columns of data to a `.mat` file
