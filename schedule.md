@@ -2,17 +2,16 @@
 
 |Date |	Topics | Reference | Notes |
 |-----| -----|-----|-----|
-|Jan 8 | Course Introduction/Group Problem/Technical Set-up |Blackboard Instructions |
+|Jan 8 | Course Introduction/Group Problem/Technical Set-up |Blackboard Instructions | |
+|Jan 10 |	Code files and Notebooks: MATLAB and Python Introduction | MATLAB Doc	| |
+|Jan 15	| GitHub Introduction |	Github.com	| Download github desktop |
+|Jan 17	| Operations/Arrays	| | |	
+|Jan 22	| Input and Output	| | |	
+|Jan 24	| Visualizations		| | |
+|Jan 29 | Loop Controls | | |		
+|Jan 31 |	Functions in MATLAB | | |		
+|Feb 5 | Functions in Python (Writing your own Packages) | | |
 
-
-Jan 10	Code files and Notebooks: MATLAB and Python Introduction	MATLAB Doc	
-Jan 15	GitHub Introduction	Github.com	Download github desktop
-Jan 17	Operations/Arrays		
-Jan 22	Input and Output		
-Jan 24	Visualizations		
-Jan 29	Loop Controls		
-Jan 31	Functions in MATLAB		
-Feb 5	Functions in Python (Writing your own Packages)		
 Feb 7			
 Feb 12	Structures and Libraries		
 Feb 14	Numerical Derivatives		
