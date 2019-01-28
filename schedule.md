@@ -6,12 +6,12 @@
 |Jan 10 |	Code files and Notebooks: MATLAB and Python Introduction | MATLAB Doc	| |
 |Jan 15	| GitHub Introduction |	Github.com	| Download github desktop |
 |Jan 17	| Operations/Arrays	| [MATLAB Doc](http://www.mathworks.com/help/matlab/), [Numpy Doc](https://docs.scipy.org/doc/) | |	
-|Jan 22	| Input and Output	| | |	
-|Jan 24	| Visualizations		| | |
+|Jan 22	| Input and Output	| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | |	
+|Jan 24	| Visualizations		| [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html) | |
 |Jan 29 | Loop Controls | | |		
 |Jan 31 |	Functions in MATLAB | | |		
 |Feb 5 | Functions in Python (Writing your own Packages) | | |
-|Feb 7 | 			
+|Feb 7 | 
 Feb 12	Structures and Libraries		
 Feb 14	Numerical Derivatives		
 Feb 19	Numerical Integration		
