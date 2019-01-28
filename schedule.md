@@ -8,10 +8,10 @@
 |Jan 17	| Operations/Arrays	| [MATLAB Doc](http://www.mathworks.com/help/matlab/), [Numpy Doc](https://docs.scipy.org/doc/) | |	
 |Jan 22	| Input and Output	| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | |	
 |Jan 24	| Visualizations		| [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html) | |
-|Jan 29 | Loop Controls | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html),[MATLAB Doc](http://www.mathworks.com/help/matlab/)| |		
-|Jan 31 |	Functions in MATLAB | | |		
-|Feb 5 | Functions in Python (Writing your own Packages) | | |
-|Feb 7 | Documentation
+|Jan 29 | Loop Controls | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [MATLAB Doc](http://www.mathworks.com/help/matlab/)| |		
+|Jan 31 |	Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		
+|Feb 5 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm) | |
+|Feb 7 | Documentation and Errors
 Feb 12 |Structures and Libraries		
 Feb 14 |Numerical Derivatives		
 Feb 19 |Numerical Integration		
