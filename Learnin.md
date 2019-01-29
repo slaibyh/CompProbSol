@@ -11,6 +11,10 @@
 1. when graphing, `figure` will open new figure
 1. `hold on` and `hold off` allows you to plot in same figure
 1. `legend` allows you to input labels to graphs containing multiple lines 
+1. Mac paths must right click on file, click option - copy path to clipboard
+2. cos/sin functions take radians, but there are functions cosd/sind that take degrees.
+1. It might be useful to write the program in pen and paper before using the computer.
+ 
  
 # Resources
 - tutorialspoint.com/python
