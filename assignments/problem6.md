@@ -15,6 +15,6 @@ horizontal distance traveled (aka the range) and the flight time of the projecti
  * Only accept launch angles between 0 and 90 degrees
  * Graph the trajectory of the projectile. Maybe try to use an animated line
 ## Check your program
-Does a 30 m/s projectile launched at 30^\circ travel 79.5 m in 3.05 s?
+Does a 30 m/s projectile launched at 30 degrees travel 79.5 m in 3.05 s?
 
-Does a 45 mph projectile launched at 65^\circ travel 103.7 feet in 3.73 s?
+Does a 45 mph projectile launched at 65 degrees travel 103.7 feet in 3.73 s?
