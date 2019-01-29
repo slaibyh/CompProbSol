@@ -10,10 +10,11 @@ You will be writing a script that calculates the range and time of flight of a p
 1.  Use your satellite script as a template for how to accept input from the user. 
 1.  Write a script that asks for the initial velocity and launch angle of a projectile and gives the
 horizontal distance traveled (aka the range) and the flight time of the projectile. Make sure to:
-(a)  Accept velocities in mph and m/s
-(b)  Check that the input is valid.
-(c)  Only accept launch angles between 0 and 90 degrees
-(d)  Graph the trajectory of the projectile. Maybe try to use an animated line
+
+  1.  Accept velocities in mph and m/s
+  1.  Check that the input is valid.
+  1.  Only accept launch angles between 0 and 90 degrees
+  1.  Graph the trajectory of the projectile. Maybe try to use an animated line
 ## Check your program
 Does a 30 m/s projectile launched at 30^\circ travel 79.5 m in 3.05 s?
 
