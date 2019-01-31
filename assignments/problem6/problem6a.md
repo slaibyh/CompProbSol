@@ -1,20 +1,34 @@
-# Problem 6
+# Problem 6 "Writing a Function"
 ## Outcomes
 - Use control statements to check input and output
 - Parse input using character and string data types
 
 ## Problem 
-You will be writing a script that calculates the range and time of flight of a projectile given the initial launch velocity and angle. You can ignore air resistance, for now. After learning how differential equations work in MATLAB/Python, we will return to this function to incorporate air resistance (and maybe the Coriolis effect).
+You will be writing a **function** that calculates the range and time of flight of a projectile given the initial launch velocity and angle. You can ignore air resistance, for now. After learning how differential equations work in MATLAB/Python, we will return to this function to incorporate air resistance (and maybe the Coriolis effect).
 ## Procedure
 1.  Review the kinematic equations for 2D projectile motion.
-1.  Use your satellite script as a template for how to accept input from the user. 
-1.  Write a script that asks for the initial velocity and launch angle of a projectile and gives the
+1.  Use the function `fsatellite.m` that I recently posted a syntax template for a function. 
+1.  Write a function that accepts the initial velocity and launch angle of a projectile and returns the
 horizontal distance traveled (aka the range) and the flight time of the projectile. Make sure to:
- * Accept velocities in mph and m/s
- * Check that the input is valid.
+ * Accept velocities in mph and m/s (*I highly suggest getting it working before attempting any unit shenanigans*)
+ * Check that the input is valid using control statements
  * Only accept launch angles between 0 and 90 degrees
- * Graph the trajectory of the projectile. Maybe try to use an animated line
+ * Graph the trajectory of the projectile, maybe try to use an animated line
 ## Check your program
-Does a 30 m/s projectile launched at 30 degrees travel 79.5 m in 3.05 s?
+Inputting arguments into functions is a little different than with scripts. The arguments should be inputted when you call the function. Check that you can run your function using the following syntax:
+```
+[R,t] = fsatellite(30,30,"m/s")
+R =
+    79.5 
+t =
+    3.05
+```
+```
+[R,t] = fsatellite(45,65,"mph")
+R =
+    103.7 
+t =
+    3.73
+```
 
-Does a 45 mph projectile launched at 65 degrees travel 103.7 feet in 3.73 s?
+
