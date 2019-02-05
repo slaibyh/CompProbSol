@@ -11,7 +11,7 @@
 |Jan 29 | Loop Controls | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [MATLAB Doc](http://www.mathworks.com/help/matlab/), [Python Bitwise Operators](https://wiki.python.org/moin/BitwiseOperators)| powerpoint on BB |		
 |Jan 31 |	Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		
 |Feb 5 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
-|Feb 7 | Documentation, Errors, Odds and ends| |BB Powerpoint: Good Programming Practices
+|Feb 7 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
 Feb 12 |Structures and Libraries		
 Feb 14 |Numerical Derivatives		
 Feb 19 |Numerical Integration		
