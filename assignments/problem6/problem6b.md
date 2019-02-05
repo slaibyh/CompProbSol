@@ -13,7 +13,8 @@ You will be writing a **function file** (*you can name it something along the li
  * Check that the input is valid using control statements
  * Only accept launch angles between 0 and 90 degrees
  * Graph the trajectory of the projectile. Python does have some animated options that you can investigate.
- 1. Have fun and include your own touches.
+ 
+ Have fun and include your own touches.
 ## Running your program
 Running your program in Python is now more involved than with MATLAB. In addition to writing this function file, you should also include a Jupyter Notebook in your repository that contains example of several calls to your projectile function.
 
