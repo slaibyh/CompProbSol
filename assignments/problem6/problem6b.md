@@ -12,11 +12,15 @@ You will be writing a **function file** (*you can name it something along the li
  * Accept velocities in ft/s, mph and m/s (*I highly suggest getting it working before attempting any unit shenanigans*)
  * Check that the input is valid using control statements
  * Only accept launch angles between 0 and 90 degrees
- * Graph the trajectory of the projectile. Python does have some animated options that you can investigate.
+ * Graph the trajectory of the projectile. Python does have some animated options that you can investigate. The module is called `matplotlib.animation` with a function called `FuncAnimation` being a good place to start.  
  
  Have fun and include your own touches.
 ## Running your program
 Running your program in Python is now more involved than with MATLAB. In addition to writing this function file, you should also include a Jupyter Notebook in your repository that contains example of several calls to your projectile function.
+## At the end ..
+At the end you should have:
+- a `.py` file containing your satellite and projectile functions with any "auxiliery" functions you require
+- a `.ipynb` file containing calls to run your projectile function. 
 
 
 
