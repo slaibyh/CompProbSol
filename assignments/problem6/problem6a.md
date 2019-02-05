@@ -1,4 +1,4 @@
-# Problem 6 "Writing a Function"
+# Problem 6a "Writing a Function, part I"
 ## Outcomes
 - Use control statements to check input and output
 - Parse input using character and string data types
