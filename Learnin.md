@@ -10,7 +10,7 @@
 1. `len` in python counts elements like `numel` in MATLAB
 1. new line character '\n' ('\t' as well) can help with outputting nice looking text
 1. Mac paths must right click on file, click option - copy path to clipboard
-2. cos/sin functions take radians, but there are functions cosd/sind that take degrees.
+2. cos/sin functions take radians, but there are functions cosd/sind that take degrees in Python and MATLAB.
 1. It might be useful to write the program in pen and paper before using the computer.
 ## Plots
 1. Add labels to plots `xlabel`, `ylabel` and `title`
@@ -23,7 +23,8 @@
 1. `nargin` number of arguments into function/`nargout` gives the number of output arguments
 2. `varargin` and `varargout` are alternative ways of getting input and output. Offers flexibility
 ## Python Functions
-
+1. lambda functions are python's anonymous functions
+1. 
 # Resources
 - tutorialspoint.com/python
 - stackoverflow.com
