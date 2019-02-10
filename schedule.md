@@ -12,7 +12,7 @@
 |Jan 31 |	Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		
 |Feb 5 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
 |Feb 7 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
-Feb 12 |Structures and Libraries	| [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html), [Pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)	
+Feb 12 |Structures and Libraries	| [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html), [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html), [Pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)	
 Feb 14 |Numerical Derivatives		
 Feb 19 |Numerical Integration		
 Feb 21 | Finer Points on Numerical Integration and Error Estimation || Final Project Topic Due by 5pm	
