@@ -1,16 +1,14 @@
----
-date: Due April 2019
-title: 'Phys 1211: Final Project'
----
 
-The Final Project is the "capstone" of Physics 1211. It comprises 20% of
-the course grade. It will consist of two parts
+# Phys 1211: Final Project
+## Due April 2019
+
+The Final Project is the "capstone" of Physics 1211. It comprises 20% of the course grade. It will consist of two parts
 
 -   Paper/Programs ($\sim$15%) - due April 4, 2019 by end of the day
 
 -   Presentation ($\sim$5%) - April 11 - April 18
 
-Defining the Project {#defining-the-project .unnumbered}
+Defining the Project 
 ====================
 
 The topic of the Final Project is extremely flexible. Students are to
@@ -28,7 +26,7 @@ projects always take much longer and require much more time than you
 think. *At least six* unique programming techniques need to be included
 in the Final Project.
 
-Paper {#paper .unnumbered}
+Paper 
 -----
 
 The scientific paper portion of the project will consist of a 3- to
@@ -58,7 +56,7 @@ themselves. In any case this report should include:
 
 -   a list of sources (7 minimum).
 
-Presentation {#presentation .unnumbered}
+Presentation 
 ------------
 
 The presentation portion of the Final project is a chance to present
@@ -76,7 +74,7 @@ The exact schedule of presentations will be determined by April 2. The
 length of the presentation may vary, but plan to give a 10-minute
 presentation (much shorter time than you would think).
 
-Dates to keep in mind\... {#dates-to-keep-in-mind... .unnumbered}
+Dates to keep in mind\... 
 -------------------------
 
 DO NOT put this off until April! Getting started is the hardest part, so
@@ -93,18 +91,18 @@ get started TODAY!!! There are some intermediate *due dates*:
 -   April 9, 5 p.m. - Presentation slides/outline (uploaded to github
     folder)
 
-Evaluation {#evaluation .unnumbered}
+Evaluation 
 ==========
 
 The entire Final Project is worth 100 points.
 
-Grading Rubric - Paper (75 points) {#grading-rubric---paper-75-points .unnumbered}
+Grading Rubric - Paper (75 points) 
 ----------------------------------
 
 The paper portion of the Final Project will be graded according to the
 following criteria.
 
-### Content (30 points) {#content-30-points .unnumbered}
+### Content (30 points) 
 
 -   Includes References. Paper body has an introduction and conclusion
 
@@ -118,7 +116,7 @@ following criteria.
 
 -   Body is 3- to 5- pages in length
 
-### Structure (5 points) {#structure-5-points .unnumbered}
+### Structure (5 points) 
 
 -   Introduction outlines paper and includes main ideas
 
@@ -130,7 +128,7 @@ following criteria.
 
 -   Paper is submitted as a *.pdf*/*.mlx*/*.ipynb* file
 
-### Grammar and Mechanics (5 points) {#grammar-and-mechanics-5-points .unnumbered}
+### Grammar and Mechanics (5 points) 
 
 -   Uses complete sentences, and has few no run-on sentences
 
@@ -142,7 +140,7 @@ following criteria.
 
 -   Avoids inappropriate shifts among present/past/future tenses
 
-### Documentation (10 points) {#documentation-10-points .unnumbered}
+### Documentation (10 points)
 
 -   Include references. There should be at least 5 sources cited.
 
@@ -164,8 +162,7 @@ following criteria.
     in the text before it appears in the paper (waived if in
     *.mlx*/*.ipynb* format)
 
-### Numerical Analysis (25 points) {#numerical-analysis-25-points .unnumbered}
-
+### Numerical Analysis (25 points) 
 -   All programs are included with your submission
 
 -   All programs run and produce correct results
@@ -178,13 +175,13 @@ following criteria.
 
 -   At least 3 numerical techniques were used in the analysis
 
-Grading Rubric - Presentation (25 points) {#grading-rubric---presentation-25-points .unnumbered}
+Grading Rubric - Presentation (25 points)
 -----------------------------------------
 
 The presentation portion of the Final Project will be graded according
 to the following criteria.
 
-### Understanding of the subject matter (5 points) {#understanding-of-the-subject-matter-5-points .unnumbered}
+### Understanding of the subject matter (5 points) 
 
 -   Demonstrates an understanding of the subject matter
 
@@ -192,7 +189,7 @@ to the following criteria.
 
 -   Adequately explains how topic relates to the larger field of study
 
-### Understanding of numerical analysis techniques (5 points) {#understanding-of-numerical-analysis-techniques-5-points .unnumbered}
+### Understanding of numerical analysis techniques (5 points) 
 
 -   Demonstrates an understanding of the numerical techniques used in
     his/her project
@@ -203,7 +200,7 @@ to the following criteria.
 -   Uses appropriate graphics to communicate results of numerical
     analysis
 
-### Organization (5 points) {#organization-5-points .unnumbered}
+### Organization (5 points) 
 
 -   Organized logically
 
@@ -211,7 +208,7 @@ to the following criteria.
 
 -   Stays within specified time limit
 
-### Clarity (5 points) {#clarity-5-points .unnumbered}
+### Clarity (5 points) 
 
 -   Speaks clearly
 
@@ -219,7 +216,7 @@ to the following criteria.
 
 -   Explains any acronyms and technical terms
 
-### Style (5 points) {#style-5-points .unnumbered}
+### Style (5 points) 
 
 -   Presents the material in an engaging manner
 
