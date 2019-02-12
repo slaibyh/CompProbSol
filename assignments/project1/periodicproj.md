@@ -2,7 +2,7 @@
 ===================================
 
 
-Outcomes }
+Outcomes 
 --------
 
 -   Construct a function with variable number of inputs
@@ -43,8 +43,7 @@ Coulomb term, the asymmetry term, and the pairing term),
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\delta(A,Z)=\begin{cases}&space;1,&space;&&space;\text{if&space;Z&space;even,&space;A&space;even}.\\&space;0,&space;&&space;\text{if&space;A&space;odd}&space;\\&space;-1,&space;&&space;\text{if&space;Z&space;odd,&space;A&space;even&space;}&space;\end{cases}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\delta(A,Z)=\begin{cases}&space;1,&space;&&space;\text{if&space;Z&space;even,&space;A&space;even}.\\&space;0,&space;&&space;\text{if&space;A&space;odd}&space;\\&space;-1,&space;&&space;\text{if&space;Z&space;odd,&space;A&space;even&space;}&space;\end{cases}" title="\delta(A,Z)=\begin{cases} 1, & \text{if Z even, A even}.\\ 0, & \text{if A odd} \\ -1, & \text{if Z odd, A even } \end{cases}" /></a>
  
- $E_{B}$ in equation
-([\[base\]](#base){reference-type="ref" reference="base"}) is the
+ $E_{B}$ is the
 binding energy of the nucleus with $A$ nucleons and $Z$ protons. This
 quantity of mass from the protons and neutrons have been converted to
 energy to bind the nuclei together. It should be noted that when talking
