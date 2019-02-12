@@ -31,11 +31,15 @@ Coulomb term, the asymmetry term, and the pairing term),
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=E_{B}&space;=&space;a_{V}&space;A&space;-&space;a_{S}&space;A^{2/3}&space;-&space;a_{C}\frac{Z(Z-1)}{A^{1/3}}&space;-&space;a_{A}&space;\frac{(A-2Z)^{2}}{A}&space;&plus;&space;\frac{a_{P}}{A^{1/2}}\delta(A,Z)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?E_{B}&space;=&space;a_{V}&space;A&space;-&space;a_{S}&space;A^{2/3}&space;-&space;a_{C}\frac{Z(Z-1)}{A^{1/3}}&space;-&space;a_{A}&space;\frac{(A-2Z)^{2}}{A}&space;&plus;&space;\frac{a_{P}}{A^{1/2}}\delta(A,Z)" title="E_{B} = a_{V} A - a_{S} A^{2/3} - a_{C}\frac{Z(Z-1)}{A^{1/3}} - a_{A} \frac{(A-2Z)^{2}}{A} + \frac{a_{P}}{A^{1/2}}\delta(A,Z)" /></a>
 
-a_{V} &=& 15.8\,MeV\nonumber\\
-a_{S} &=& 18.3\,MeV\nonumber\\
-a_{C} &=& 0.714\,MeV\nonumber\\
-a_{A} &=& 23.2\,MeV\nonumber\\
-a_{P} &=& 12.0\,MeV\nonumber\end{aligned}$$ where $$\begin{aligned}
+<a href="https://www.codecogs.com/eqnedit.php?latex=a_{V}&space;&=&&space;15.8\,MeV" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{V}&space;&=&&space;15.8\,MeV" title="a_{V} &=& 15.8\,MeV" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=a_{S}&space;&=&&space;18.3\,MeV" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{S}&space;&=&&space;18.3\,MeV" title="a_{S} &=& 18.3\,MeV" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=a_{C}&space;&=&&space;0.714\,MeV" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{C}&space;&=&&space;0.714\,MeV" title="a_{C} &=& 0.714\,MeV" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=a_{A}&space;&=&&space;23.2\,MeV" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{A}&space;&=&&space;23.2\,MeV" title="a_{A} &=& 23.2\,MeV" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=a_{P}&space;&=&&space;12.0\,MeV" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{P}&space;&=&&space;12.0\,MeV" title="a_{P} &=& 12.0\,MeV" /></a>
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\delta(A,Z)=\begin{cases}&space;1,&space;&&space;\text{if&space;Z&space;even,&space;A&space;even}.\\&space;0,&space;&&space;\text{if&space;A&space;odd}&space;\\&space;-1,&space;&&space;\text{if&space;Z&space;odd,&space;A&space;even&space;}&space;\end{cases}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\delta(A,Z)=\begin{cases}&space;1,&space;&&space;\text{if&space;Z&space;even,&space;A&space;even}.\\&space;0,&space;&&space;\text{if&space;A&space;odd}&space;\\&space;-1,&space;&&space;\text{if&space;Z&space;odd,&space;A&space;even&space;}&space;\end{cases}" title="\delta(A,Z)=\begin{cases} 1, & \text{if Z even, A even}.\\ 0, & \text{if A odd} \\ -1, & \text{if Z odd, A even } \end{cases}" /></a>
  
@@ -45,8 +49,9 @@ binding energy of the nucleus with $A$ nucleons and $Z$ protons. This
 quantity of mass from the protons and neutrons have been converted to
 energy to bind the nuclei together. It should be noted that when talking
 about masses, $MeV$ is short for $MeV/c^2$. I strongly encourage you to
-work in units of MeV, where $c=1$. $$\begin{aligned}
-931.5\, MeV = 1\,atomic\,mass\,unit = 1.66*10^{-27}\,kg \end{aligned}$$
+work in units of MeV, where $c=1$. 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=931.5\,&space;MeV&space;=&space;1\,atomic\,mass\,unit&space;=&space;1.66*10^{-27}\,kg" target="_blank"><img src="https://latex.codecogs.com/gif.latex?931.5\,&space;MeV&space;=&space;1\,atomic\,mass\,unit&space;=&space;1.66*10^{-27}\,kg" title="931.5\, MeV = 1\,atomic\,mass\,unit = 1.66*10^{-27}\,kg" /></a>
 
 Problem 
 -------
