@@ -26,6 +26,8 @@ coefficients. The formula is given in terms of the atomic number $Z$,
 the total number of nucleons $A$, the proton mass $m_p$, the neutron
 mass $n_p$, and 5 coefficients (the volume term, the surface term, the
 Coulomb term, the asymmetry term, and the pairing term),
+<a href="https://www.codecogs.com/eqnedit.php?latex=M(A,Z)&space;=&space;Zm_p&space;&plus;&space;(A-Z)m_n&space;-\frac{E_{B}}{c^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?M(A,Z)&space;=&space;Zm_p&space;&plus;&space;(A-Z)m_n&space;-\frac{E_{B}}{c^2}" title="M(A,Z) = Zm_p + (A-Z)m_n -\frac{E_{B}}{c^2}" /></a>
+
 $$\begin{aligned}
 M(A,Z) &=& Zm_p + (A-Z)m_n -\frac{E_{B}}{c^2}\label{base}\\
 E_{B} &=& a_{V} A - a_{S} A^{2/3} - a_{C}\frac{Z(Z-1)}{A^{1/3}} - a_{A} \frac{(A-2Z)^{2}}{A} + \frac{a_{P}}{A^{1/2}}\delta(A,Z),\label{Ebase}\\
