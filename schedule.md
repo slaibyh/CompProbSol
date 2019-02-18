@@ -14,7 +14,7 @@
 |Feb 7 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
 Feb 12 |Structures and Libraries	| [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html), [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html), [Pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)	
 Feb 14 |Numerical Derivatives | [Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf) | Numerical Derivative Powerpoint on Blackboard
-Feb 19 |Numerical Integration		
+Feb 19 |Numerical Integration		|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf)| Integration Powerpoint on BB
 Feb 21 | Finer Points on Numerical Integration and Error Estimation || Final Project Topic Due by 5pm	
 Feb 26 |Work Day		
 Feb 28| Midterm		
