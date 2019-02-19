@@ -20,8 +20,14 @@ One way to calculate the motion of an oscillator is to write down the equation f
 Since the energy must be constant over time, this equation is effectively a differential equation linking *x* and *t*. 
 Let us assume that the potential *V(x)* is symmetric about *x=0* and let us set our anharmonic oscillator going with amplitude *a* and it swings back towards the origin. Then at *t=0* we have *dx/dt=0*.
 
-(a) Convince yourself that the period of this oscillator is <a href="https://www.codecogs.com/eqnedit.php?latex=T&space;=&space;\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T&space;=&space;\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" title="T = \int_{0}^{a} \frac{dx}{\sqrt{V(a)-V(x)}}" /></a>.
+(a) Convince yourself that the period of this oscillator is 
 
-(b) Write a function in Python and MATLAB that takes the amplitude *a* as an argument and calculates the period of an anharmonic ocsillator with a mass *m=1* and potential <a href="https://www.codecogs.com/eqnedit.php?latex=V(x)&space;=&space;x^4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V(x)&space;=&space;x^4" title="V(x) = x^4" /></a>. Experiment with different potential functions functions.
+<a href="https://www.codecogs.com/eqnedit.php?latex=T&space;=&space;\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T&space;=&space;\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" title="T = \int_{0}^{a} \frac{dx}{\sqrt{V(a)-V(x)}}" /></a>.
+
+(b) Write a function in Python and MATLAB that takes the amplitude *a* as an argument and calculates the period of an anharmonic ocsillator with a mass *m=1* and potential:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=V(x)&space;=&space;x^4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V(x)&space;=&space;x^4" title="V(x) = x^4" /></a>.
+
+Experiment with different potential functions functions.
 
 (c) Use your function to make a graph of the period for amplitudes ranging from *a=0* to *a=4*. Do the results match your physical intuition?
