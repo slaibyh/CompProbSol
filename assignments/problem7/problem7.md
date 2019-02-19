@@ -14,7 +14,9 @@ Problems
 I would suggest that you complete the following using Jupyter notebooks and a live script in MATLAB.
 
 1. Consider the velocity information below:
+
 |v(m/s) |	t(s) |
+|-----|------|
 |0|0|
 |6|20|
 |8|40|
