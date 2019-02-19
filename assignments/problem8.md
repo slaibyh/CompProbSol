@@ -10,7 +10,7 @@ Outcomes
 
 -   Investigate anaharmonic oscillations
 
-## Problem (From *Computational Physics* Newman)
+## Problem (From *Computational Physics* by Newman)
 The simple harmonic oscillator crops up in many places. Its behaviors can be studied readily using analytic methods and it has the important property that its period of oscillation is constant, independent of its amplitude, making it useful, for instance, for keeping time in watches and clocks. 
 Frequently in physics, however, we also come across anharmonic oscillators, whose period varies with amplitude and whose behavior cannot usually be calculated analytically. A general classical oscillator can be thought of as a particle in a concave potential well. When disturbed, the particle will rock back and forth in the well. The harmonic oscillator corresponds to a quadratic potential 
 
