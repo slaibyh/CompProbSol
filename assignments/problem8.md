@@ -28,6 +28,8 @@ Let us assume that the potential *V(x)* is symmetric about *x=0* and let us set 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=T&space;=&space;\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T&space;=&space;\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" title="T = \int_{0}^{a} \frac{dx}{\sqrt{V(a)-V(x)}}" /></a>.
 
+where *a* represents the amplitude of the oscillation.
+
 (b) Write a function in Python and MATLAB that takes the amplitude *a* as an argument and the potential function as an optional argument and calculates the period of an anharmonic ocsillator with a mass *m=1*:
 
 (c) Experiment with different potential functions (if you're adventurous, look up the Lennard-Jones potential), but confirm that the period is independent of amplitude for the harmonic oscillator. 
