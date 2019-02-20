@@ -30,7 +30,7 @@ Let us assume that the potential *V(x)* is symmetric about *x=0* and let us set 
 
 where *a* represents the amplitude of the oscillation.
 
-(b) Write a function in Python and MATLAB that takes the amplitude *a* as an argument and the potential function as an optional argument and calculates the period of an anharmonic ocsillator with a mass *m=1*:
+(b) Write a function in Python and MATLAB that takes the amplitude *a* as an argument and the potential function as an optional argument and calculates the period of an anharmonic ocsillator with a mass *m=1*.
 
 (c) Experiment with different potential functions (if you're adventurous, look up the Lennard-Jones potential), but confirm that the period is independent of amplitude for the harmonic oscillator. 
 
