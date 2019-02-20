@@ -1,4 +1,4 @@
-Problem \#8 *Anaharmonic Oscillations* 
+Problem \#8 *Anharmonic Oscillations* 
 =======================
 
 **NAME**:
@@ -8,11 +8,11 @@ Outcomes
 
 -   Use integration techniques
 
--   Investigate anaharmonic oscillations
+-   Investigate anharmonic oscillations
 
 ## Problem (From *Computational Physics* by Newman)
-The simple harmonic oscillator crops up in many places. Its behaviors can be studied readily using analytic methods and it has the important property that its period of oscillation is constant, independent of its amplitude, making it useful, for instance, for keeping time in watches and clocks. 
-Frequently in physics, however, we also come across anharmonic oscillators, whose period varies with amplitude and whose behavior cannot usually be calculated analytically. A general classical oscillator can be thought of as a particle in a concave potential well. When disturbed, the particle will rock back and forth in the well. The harmonic oscillator corresponds to a quadratic potential 
+The simple harmonic oscillator crops up in many places. Its behaviors can be studied readily using analytic methods and it has the important property that its period of oscillation is constant, that is independent of its amplitude. This makes it useful, for instance, for keeping time in watches and clocks. 
+Frequently in physics, however, we also come across anharmonic oscillators, whose period varies with amplitude and whose behavior cannot usually be calculated analytically. When you continue on in your studies in condensed matter physics, you will learn about the Lennard-Jones Potential (describing interactions in lattice structures); this potential produces anharmonic oscillations.  A general classical oscillator can be thought of as a particle in a concave potential well. When disturbed, the particle will rock back and forth in the well. The harmonic oscillator corresponds to a quadratic potential 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=V(x)\sim&space;x^2" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V(x)\sim&space;x^2" title="V(x)\sim x^2" /></a>. 
 
@@ -28,10 +28,8 @@ Let us assume that the potential *V(x)* is symmetric about *x=0* and let us set 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=T&space;=&space;\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T&space;=&space;\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" title="T = \int_{0}^{a} \frac{dx}{\sqrt{V(a)-V(x)}}" /></a>.
 
-(b) Write a function in Python and MATLAB that takes the amplitude *a* as an argument and calculates the period of an anharmonic ocsillator with a mass *m=1* and potential:
+(b) Write a function in Python and MATLAB that takes the amplitude *a* as an argument and the potential function as an optional argument and calculates the period of an anharmonic ocsillator with a mass *m=1*:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=V(x)&space;=&space;x^4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V(x)&space;=&space;x^4" title="V(x) = x^4" /></a>.
+(c) Experiment with different potential functions (if you're adventurous, look up the Lennard-Jones potential), but confirm that the period is independent of amplitude for the harmonic oscillator. 
 
-Experiment with different potential functions functions.
-
-(c) Use your function to make a graph of the period for amplitudes ranging from *a=0* to *a=4*. Do the results match your physical intuition?
+(d) Use <a href="https://www.codecogs.com/eqnedit.php?latex=V(x)&space;=&space;x^4" target="_blank"><img src="https://latex.codecogs.com/gif.latex?V(x)&space;=&space;x^4" title="V(x) = x^4" /></a> to make a graph of the period for amplitudes ranging from *a=0* to *a=4*. Do the results match your physical intuition?
