@@ -15,12 +15,12 @@
 Feb 12 |Structures and Libraries	| [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html), [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html), [Pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)	
 Feb 14 |Numerical Derivatives | [Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf) | Numerical Derivative Powerpoint on Blackboard
 Feb 19 |Numerical Integration		|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf)| Integration Powerpoint on BB
-Feb 21 | Finer Points on Numerical Integration and Error Estimation || Final Project Topic Due by 5pm	
+Feb 21 | Finer Points on Numerical Integration and Error Estimation |[Romberg Method](https://en.wikipedia.org/wiki/Romberg%27s_method)| Final Project Topic Due by 5pm	
 Feb 26 |Work Day		
 Feb 28| Midterm		
 Spring Break
-Mar 12 |ODE Solvers	|| Final Project Summary Due
-Mar 14 | ODE Solvers		
+Mar 12 |ODE Solvers	
+Mar 14 | ODE Solvers		|| Final Project Summary Due
 Mar 19 |Random Number Generators		
 Mar 21 | Monte Carlo Integrations	
 Mar 26 | Monte Carlo Simulations		
