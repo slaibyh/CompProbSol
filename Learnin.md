@@ -19,15 +19,20 @@
 1. when graphing, `figure` will open new figure
 1. `hold on` and `hold off` allows you to plot in same figure
 1. `legend` allows you to input labels to graphs containing multiple lines 
+1. Look at data, plot a function, before making a plan on how to analyze it
+
+
 ## MATLAB Functions
 1. Consistent, meaningful variable names
 1. `nargin` number of arguments into function/`nargout` gives the number of output arguments
 2. `varargin` and `varargout` are alternative ways of getting input and output. Offers flexibility
 1. In MATLAB, don't name a live script and regular file the same .
 
+
 ## Python Functions
 1. lambda functions are python's anonymous functions
 1. In pandas `read_csv` we must be aware of the encoding of the file (for instance project, the csv is encoded latin-1)
+1. `filter` takes a boolean, and returns the elements where the boolean is true, much like a MATLAB indexing.
 
 1. 
 # Resources
