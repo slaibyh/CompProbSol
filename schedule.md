@@ -19,8 +19,8 @@ Feb 21 | Finer Points on Numerical Integration and Error Estimation |[Romberg Me
 Feb 26 |Work Day		
 Feb 28| Midterm		
 Spring Break
-Mar 12 |ODE Solvers	
-Mar 14 | ODE Solvers		|| Final Project Summary Due
+Mar 12 |ODE Solvers	| [Runge-Kutta Method](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods), [Choosing a MATLAB function](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html), [Starting point in MathWorks Doc](https://www.mathworks.com/help/matlab/ordinary-differential-equations.html)
+Mar 14 | ODE Solvers		|[Scipy Doc for ODEs](https://docs.scipy.org/doc/scipy/reference/integrate.html), [ODEs Examples in Python's Scipy](https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations)| Final Project Summary Due
 Mar 19 |Random Number Generators		
 Mar 21 | Monte Carlo Integrations	
 Mar 26 | Monte Carlo Simulations		
