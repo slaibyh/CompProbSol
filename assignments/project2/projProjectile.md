@@ -1,7 +1,7 @@
-Project \#2 *Projectile Motion* {#project-2-projectile-motion .unnumbered}
+Project \#2 *Projectile Motion* 
 ===============================
 
-Outcomes {#outcomes .unnumbered}
+Outcomes 
 --------
 
 -   Construct a function that solves a second order differential
@@ -11,7 +11,7 @@ Outcomes {#outcomes .unnumbered}
 
 -   Apply ODE solvers to a real world problem
 
-The Project {#the-project .unnumbered}
+The Project 
 ===========
 
 The goal of this project is to expand on the projectile program started
