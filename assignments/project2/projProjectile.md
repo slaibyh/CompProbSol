@@ -21,7 +21,7 @@ mechanics books) to accurately reflect the motion of projectiles. To
 include this effect, you will need to solve the differential equations
 that describes projectile motion with drag forces, 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=F_{drag}&space;=&space;\frac{C\rho&space;A}{2}v^2," target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{drag}&space;=&space;\frac{C\rho&space;A}{2}v^2," title="F_{drag} = \frac{C\rho A}{2}v^2," /></a>\
+<a href="https://www.codecogs.com/eqnedit.php?latex=F_{drag}&space;=&space;\frac{C\rho&space;A}{2}v^2," target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{drag}&space;=&space;\frac{C\rho&space;A}{2}v^2," title="F_{drag} = \frac{C\rho A}{2}v^2," /></a>
 
 where *C* is the drag coefficient, $\rho$ the air density, and *A* the object's
 cross-sectional area. These drag forces act vertically and horizontally,
