@@ -1,7 +1,7 @@
-Project \#2 *Projectile Motion* {#project-2-projectile-motion .unnumbered}
+Project \#2 *Projectile Motion* 
 ===============================
 
-Outcomes {#outcomes .unnumbered}
+Outcomes 
 --------
 
 -   Construct a function that solves a second order differential
@@ -11,7 +11,7 @@ Outcomes {#outcomes .unnumbered}
 
 -   Apply ODE solvers to a real world problem
 
-The Project {#the-project .unnumbered}
+The Project 
 ===========
 
 The goal of this project is to expand on the projectile program started
@@ -19,13 +19,18 @@ during the problem \#6. The new projectile program must include drag
 forces (a discussion of this topic can be found in most advanced
 mechanics books) to accurately reflect the motion of projectiles. To
 include this effect, you will need to solve the differential equations
-that describes projectile motion with drag forces, $$\begin{aligned}
-F_{drag} = \frac{C\rho A}{2}v^2,\nonumber\end{aligned}$$ where $C$ is
-the drag coefficient, $\rho$ the air density, and $A$ the object's
+that describes projectile motion with drag forces, 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=F_{drag}&space;=&space;\frac{C\rho&space;A}{2}v^2," target="_blank"><img src="https://latex.codecogs.com/gif.latex?F_{drag}&space;=&space;\frac{C\rho&space;A}{2}v^2," title="F_{drag} = \frac{C\rho A}{2}v^2," /></a>
+
+where *C* is the drag coefficient, $\rho$ the air density, and *A* the object's
 cross-sectional area. These drag forces act vertically and horizontally,
-giving equations of motion, $$\begin{aligned}
-\ddot{x}(t) &=& -\frac{C\rho A}{2m}\dot{x}^{2}\nonumber\\
-\ddot{y}(t) &=&-g -\frac{C\rho A}{2m}\dot{y}^{2}.\nonumber\\\end{aligned}$$
+giving equations of motion,
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\ddot{x}(t)&space;=&space;-\frac{C\rho&space;A}{2m}\dot{x}^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\ddot{x}(t)&space;=&space;-\frac{C\rho&space;A}{2m}\dot{x}^{2}" title="\ddot{x}(t) = -\frac{C\rho A}{2m}\dot{x}^{2}" /></a>
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\ddot{y}(t)&space;=-g&space;-\frac{C\rho&space;A}{2m}\dot{y}^{2}." target="_blank"><img src="https://latex.codecogs.com/gif.latex?\ddot{y}(t)&space;=-g&space;-\frac{C\rho&space;A}{2m}\dot{y}^{2}." title="\ddot{y}(t) =-g -\frac{C\rho A}{2m}\dot{y}^{2}." /></a>
+
 Recall, MATLAB's `ode` solvers are designed to solve first order
 differential equations; therefore, you'll have to write the two
 second-order differential equations above as a system of four first
@@ -38,9 +43,9 @@ with the initial conditions written as
 
     w0 = [x0; y0; vx0; vy0];
 
-where $x0$ and $y0$ specify the inital position and $vx0$ and $vy0$
+where *x0* and *y0* specify the inital position and *vx0* and *vy0*
 specify the inital velocity. You may assume that the ground is always at
-$y=0$, that you *always* approach the ground from above, and that there
+*y=0*, that you *always* approach the ground from above, and that there
 are no gusts of wind.
 
 Python's `ode` solvers are more explicit than MATLAB's. You can find
