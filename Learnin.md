@@ -33,6 +33,7 @@
 1. lambda functions are python's anonymous functions
 1. In pandas `read_csv` we must be aware of the encoding of the file (for instance project, the csv is encoded latin-1)
 1. `filter` takes a boolean, and returns the elements where the boolean is true, much like a MATLAB indexing.
+1. Be aware of `vectorize` in python. This language is less automatic about handling arrays.
 
 1. 
 # Resources
