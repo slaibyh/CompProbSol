@@ -23,9 +23,9 @@ Mar 12 |ODE Solvers	| [Runge-Kutta Method](https://en.wikipedia.org/wiki/Runge%E
 Mar 14 | ODE Solvers		|[Scipy Doc for ODEs](https://docs.scipy.org/doc/scipy/reference/integrate.html), [ODEs Examples in Python's Scipy](https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations)| Final Project Summary Due
 Mar 19 | 2nd Order Differential Equations | [2nd to 1st order Reference sheet](https://projects.ncsu.edu/crsc/events/ugw05/slides/root_handout2.pdf)| Writing a program together
 Mar 21 |Random Number Generators | [MATLAB's Random Number Generators](https://www.mathworks.com/help/matlab/random-number-generation.html), [Python's Random Number Generators](https://machinelearningmastery.com/how-to-generate-random-numbers-in-python)
-Mar 26 | Drawing Random Numbers from distributions ||	
+Mar 26 | Drawing Random Numbers from distributions |[Distributions in MATLAB](https://www.mathworks.com/help/stats/prob.normaldistribution.random.html)|	
 Mar 28 | Mathematica Scripting	|| Final Project First Draft Due		
-Apr 2	| Final Project Feedback Time	
+Apr 2	| Final Project Feedback Time	| Bring Final Project Materials
 Apr 4	|Mathematica Advanced Tools		
 Apr 9	|Final Presentations	|| Final Project Presentation Materials Due		
 Apr 11	|Final Presentations		
