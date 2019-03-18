@@ -26,7 +26,7 @@ Let us assume that the potential *V(x)* is symmetric about *x=0* and let us set 
 
 (a) Convince yourself that the period of this oscillator is 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=T&space;=&space;4\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T&space;=&space;4\int_{0}^{a}&space;\frac{dx}{\sqrt{V(a)-V(x)}}" title="T = 4\int_{0}^{a} \frac{dx}{\sqrt{V(a)-V(x)}}" /></a>.
+<a href="https://www.codecogs.com/eqnedit.php?latex=T&space;=&space;\sqrt{8m}\int_{0}^{a}\frac{dx}{\sqrt{V(a)-V(x)}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?T&space;=&space;\sqrt{8m}\int_{0}^{a}\frac{dx}{\sqrt{V(a)-V(x)}}" title="T = \sqrt{8m}\int_{0}^{a}\frac{dx}{\sqrt{V(a)-V(x)}}" /></a>
 
 where *a* represents the amplitude of the oscillation.
 
