@@ -18,6 +18,6 @@ This program takes arguments `N` and `p`, and then displays an animation of `p` 
 You are to modify `brownian2.m` (rename to `brownian3.m`) such that:
 
 1. It models particles moving in 3 dimensions. Does the behavior of the system still follow the characteristic <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{N}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{N}" title="\sqrt{N}" /></a> behavior?
-2. `brownian2.m` draws random numbers from a normal distribution using `randn`. Modify the program so that it draws random numbers from a (i) uniform distribution and a (ii) exponential distribution. Does the behavior of the system still follow the characteristic <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{N}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{N}" title="\sqrt{N}" /></a> behavior in either case? 
+2. `brownian2.m` draws random numbers from a normal distribution using `randn`. Modify the program so that it draws random numbers from a (i) uniform distribution and a (ii) exponential distribution. Does the behavior of the system still follow the characteristic <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{N}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{N}" title="\sqrt{N}" /></a> behavior in either case? You can check this behavior by using a log-log plot for the distance vs `N` graph and confirming that a straight line results.
 
 **This is an assignment in MATLAB. You can construct a comparable program in Python for extra credit.**  
