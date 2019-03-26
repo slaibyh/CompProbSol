@@ -29,4 +29,5 @@ Apr 2	| Final Project Feedback Time	| Bring Final Project Materials
 Apr 4	|Mathematica Advanced Tools	|[Manipulate](https://reference.wolfram.com/language/tutorial/IntroductionToManipulate.html), [Defining Functions](https://reference.wolfram.com/language/tutorial/DefiningFunctions.html)|
 Apr 9	|Final Presentations	|| Final Project Presentation Materials Due		
 Apr 11	|Final Presentations		
-Apr 16	|Final Presentations		
+Apr 16	|Final Presentations	
+Apr 18	|Final Presentations Clean-up Dana 114	
