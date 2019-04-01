@@ -25,7 +25,7 @@ Mar 19 | 2nd Order Differential Equations | [2nd to 1st order Reference sheet](h
 Mar 21 |Random Number Generators | [MATLAB's Random Number Generators](https://www.mathworks.com/help/matlab/random-number-generation.html), [Python's Random Number Generators](https://machinelearningmastery.com/how-to-generate-random-numbers-in-python) [Mersenne Twistor Method](https://en.wikipedia.org/wiki/Mersenne_Twister)
 Mar 26 | Drawing Random Numbers from distributions |[Distributions in MATLAB](https://www.mathworks.com/help/stats/prob.normaldistribution.random.html)|	Download the MATLAB's Statistics and Machine Learning Toolbox
 Mar 28 | Mathematica Scripting	|[Quick Mathematica Reference](http://www.wolfram.com/language/fast-introduction-for-programmers/en/options/)| Final Project First Draft Due		
-Apr 2	| Final Project Feedback Time	| Bring Final Project Materials
+Apr 2	| Final Project Feedback Time	|[Active vs Passive Voice in writing](https://www.yourdictionary.com/index.php/pdf/articles/192.activevspassivevoice.pdf) | Bring Final Project Materials
 Apr 4	|Mathematica Advanced Tools	|[Manipulate](https://reference.wolfram.com/language/tutorial/IntroductionToManipulate.html), [Defining Functions](https://reference.wolfram.com/language/tutorial/DefiningFunctions.html)|
 Apr 9	|Final Presentations	|| Final Project Presentation Materials Due		
 Apr 11	|Final Presentations		
