@@ -1,9 +1,9 @@
 # Course Schedule
 
-|Date |	Topics | Reference | Homework |
+|Date |	Topics | Reference | Homework/Notes |
 |-----| -----|-----|-----|
-|Jan 7 | Course Introduction/Group Problem/Technical Set-up |Blackboard Instructions | |
-|Jan 9 |	Code files and Notebooks: MATLAB and Python Introduction | MATLAB Doc	| |
+|Jan 7 | Course Introduction/Group Problem/Technical Set-up | Blackboard Instructions | Install MATLAB |
+|Jan 9 |	Code files and Notebooks: MATLAB | MATLAB Doc	| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/) |
 |Jan 14	| GitHub Introduction |	[Github.com](https://github.com)	| Download github desktop |
 |Jan 16	| Operations/Arrays	| [MATLAB Doc](http://www.mathworks.com/help/matlab/), [Numpy Doc](https://docs.scipy.org/doc/) | |	
 |Jan 21	| Input and Output	| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | |	
