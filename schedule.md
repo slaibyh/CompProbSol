@@ -5,11 +5,13 @@
 |Jan 7 | Course Introduction/Group Problem/Technical Set-up | Blackboard Instructions | Install MATLAB |
 |Jan 9 |	Code files and Notebooks: MATLAB | MATLAB Doc	| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/) |
 |Jan 14	| GitHub Introduction |	[Github.com](https://github.com)	| Download github desktop |
-|Jan 16	| Operations/Arrays	| [MATLAB Doc](http://www.mathworks.com/help/matlab/), [Numpy Doc](https://docs.scipy.org/doc/) | |	
-|Jan 21	| Input and Output	| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | |	
-|Jan 23	| Visualizations		| [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html) | |
-<!----|Jan 28 | Loop Controls | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [MATLAB Doc](http://www.mathworks.com/help/matlab/), [Python Bitwise Operators](https://wiki.python.org/moin/BitwiseOperators)| powerpoint on BB |		
+|Jan 16	| Operations/Arrays	| [MATLAB Doc](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)| |	
+|Jan 21	| Importing and Exporting Data	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | |	
+|Jan 23	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| |
+|Jan 28 | Loop Controls |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)|  |		
 |Jan 30 |	Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		
+
+<!----
 |Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
 |Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
 Feb 11 |Structures and Libraries	| [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html), [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html), [Pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)	
@@ -30,3 +32,7 @@ Apr 2	|Mathematica Advanced Tools	|[Manipulate](https://reference.wolfram.com/la
 Apr 7	|		
 Apr 9	|		
 Apr 14 |
+[pandas Doc](http://pandas.pydata.org/pandas-docs/stable/)
+[Python Loops](https://docs.python.org/3/tutorial/controlflow.html),
+[Python Bitwise Operators](https://wiki.python.org/moin/BitwiseOperators)
+[matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html) 
