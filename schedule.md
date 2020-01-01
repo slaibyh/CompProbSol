@@ -7,14 +7,15 @@
 |Jan 14	| GitHub Introduction |	[Github.com](https://github.com)	| Download github desktop |
 |Jan 16	| Operations/Arrays	| [MATLAB Doc](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)| |	
 |Jan 21	| Importing and Exporting Data	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | |	
-|Jan 23	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| |
-|Jan 28 | Loop Controls |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)|  |		
-|Jan 30 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		
-|Feb 4 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)|BB Powerpoint: Good Programming Practices | |
-|Feb 6 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html) | | 
+| Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html) | | 
+|Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| |
+|Jan 30 | Loop Controls |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)|  |		
+|Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		
+|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)|BB Powerpoint: Good Programming Practices | |
+
 <!----
-|Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
-|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
+| Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
+| Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
 , [Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html), [Pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)	
 Feb 13 |Numerical Derivatives | [Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf) | Numerical Derivative Powerpoint on Blackboard
 Feb 18 |Numerical Integration		|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf)| Integration Powerpoint on BB
