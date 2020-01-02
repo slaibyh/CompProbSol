@@ -1,8 +1,6 @@
+Physics 1211: Computational Problem Solving
 ---
-title: 'Physics 1211: Computational Problem Solving'
----
-
-#### Spring 2020
+ Spring 2020
 
 Instructor
 ==========
