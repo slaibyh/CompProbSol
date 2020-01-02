@@ -3,8 +3,8 @@
 |Date |	Topics | Reference | Homework | Notes|
 |-----| -----|-----|-----|-----|
 |Jan 7 | Course Introduction/Group Problem/Technical Set-up | Blackboard Instructions | Install MATLAB ||
-|Jan 9 |	Code files and Notebooks in MATLAB | MATLAB Doc	| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/) Download GitHub desktop |MATLAB should be installed|
-|Jan 14	| GitHub Introduction |	[Github.com](https://github.com)	| |GitHub Desktop should be installed|
+|Jan 9 |	Code files and Notebooks in MATLAB | MATLAB Doc	| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/) Download GitHub desktop Register with GitHub  |MATLAB should be installed|
+|Jan 14	| GitHub Introduction |	[Github.com](https://github.com)	| Email me your GitHub Username *Push up* a repository|GitHub Desktop should be installed|
 |Jan 16	| Operations/Arrays	| [MATLAB Doc](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)| |	|
 |Jan 21	| Importing and Exporting Data	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | |	|
 | Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html) | | |
