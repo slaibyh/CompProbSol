@@ -1,6 +1,6 @@
 # Course Schedule
 
-|Date |	Topics | Reference | Homework/Notes |
+|Date |	Topics | Reference | Homework | Notes|
 |-----| -----|-----|-----|
 |Jan 7 | Course Introduction/Group Problem/Technical Set-up | Blackboard Instructions | Install MATLAB |
 |Jan 9 |	Code files and Notebooks in MATLAB | MATLAB Doc	| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/) |
