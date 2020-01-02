@@ -1,9 +1,11 @@
 <center>
+
 Physics 1211: Computational Problem Solving
 ===============
- **Spring 2020**
-<\center>
- 
+**Spring 2020**
+
+</center> 
+
 Instructor
 ==========
 
