@@ -25,7 +25,7 @@ Course Goals and Objectives
 
 The goal of this course is to learn the basics of programming and numerical computational techniques and to apply them to physical models and problems. We will accomplish these goals through the programming languages of MATLAB and Python (with a little Mathematica). While the syntax of each language may be unique, the concepts carry through all computer languages. In fact, after learning one language, it becomes easier to learn another.
 
-Another implicit goal that I will emphasize throughout this course is *self-sufficiency*. The ability to find resources **on your own** is an important life skill. MATLAB, Python, and Mathematica are vast programming languages that have added functionality seemingly every month. This makes them very powerful but very hard to encompass all their potential; there\'s always something new. **To master these languages, you will need to read, learn on your own, try things and *fail at them (possibly many times)*, modify your approach, and then try them again. **
+Another implicit goal that I will emphasize throughout this course is *self-sufficiency*. The ability to find resources **on your own** is an important life skill. MATLAB, Python, and Mathematica are vast programming languages that have added functionality seemingly every month. This makes them very powerful but very hard to encompass all their potential; there\'s always something new. **To master these languages, you will need to read, learn on your own, try things and** *fail at them (possibly many times)*, **modify your approach, and then try them again. **
 
 However, you are not completely alone. Think of me as a guide, your classmates as fellow travelers, and yourself as an explorer. We are all exploring this programming realm together, using each other as resources, and learning as we trek ahead into the fringes of our own knowledge.
 
@@ -77,7 +77,7 @@ Course Textbook
 
 There is no "official" textbook for this course. I will frequently use *Computational Physics* by Mark Newman; you can download most of this text at <http://www-personal.umich.edu/~mejn/cp/>. This text looks at programming exclusively through the Python language, but it also contains universal principles applicable to all languages. For a more MATLAB focused text, I use *Numerical Computing with MATLAB*. You can download it for free at <http://www.mathworks.com/moler/index_ncm.html>.
 
-Be warned: *do not only look to your text for information*. Useful information about programming is littered throughout the internet. Part of this course will be learning how to use those resources. MATLAB, Mathematica, and Python have extensive online documentation**; don\'t be afraid to use it**. There are hundreds of *Youtube* videos showing how to program MATLAB and Python; watch them.
+Be warned: *do not only look to your text for information*. Useful information about programming is littered throughout the internet. Part of this course will be learning how to use those resources. MATLAB, Mathematica, and Python have extensive online documentation; **don\'t be afraid to use it**. There are hundreds of *Youtube* videos showing how to program MATLAB and Python; watch them.
 
 Online Resources
 ================
@@ -142,35 +142,4 @@ If you have trouble with understanding concepts or with homework, seek help imme
 Course Schedule
 ===============
 
-This course runs from Jan. 6 to April 14. You can refer to the material in the suggested texts (CP = *Computational Physics*, NCM = *Numerical Computing with MATLAB*) or online documentation. **This Course Schedule is only a partial listing of the semester and subject to revision.** Any changes will be announced in class and posted on [GitHub](https://github.com/Phys1211/CompProbSol/blob/master/schedule.md). Other changes may be verbally announced in class. Students are responsible for all information given in class, even if they are absent.
-
-  **Date**           **Topics**                                           **Reference**             **Notes**
-  ------------------ ---------------------------------------------------- ------------------------- -------------------------
-  Jan 7              Course Introduction/Group Problem/Technical Set-up   Blackboard Instructions   
-  Jan 9              Code files and Notebooks in MATLAB                   MATLAB Doc                Complete MATLAB onramp
-  Jan 14             GitHub Introduction                                  Github.com                Download github desktop
-  Jan 16             Operations/Arrays                                                              
-  Jan 21             Input and Output                                                               
-  Jan 23             Visualizations                                                                 
-  Jan 28             Loop Controls                                                                  
-  Jan 30             Functions in MATLAB                                                            
-  Feb 4                                                                                             
-  Feb 6                                                                                             
-  Feb 11                                                                                            
-  Feb 13                                                                                            
-  Feb 18                                                                                            
-  Feb 20                                                                                            
-  Feb 25                                                                                            
-  Feb 27             **Midterm**                                                                    
-  **Spring Break**                                                                                  
-  Mar 10                                                                                            
-  Mar 12                                                                                            
-  Mar 17                                                                                            
-  Mar 19                                                                                            
-  Mar 24                                                                                            
-  Mar 26                                                                                            
-  Mar 31                                                                                            
-  Apr 2                                                                                             
-  Apr 7                                                                                             
-  Apr 9                                                                                             
-  Apr 14
+This course runs from Jan. 6 to April 14. You can refer to the material in the suggested texts (CP = *Computational Physics*, NCM = *Numerical Computing with MATLAB*) or online documentation. **This Course Schedule is only a partial listing of the semester and subject to revision.** Please visit [GitHub](https://github.com/Phys1211/CompProbSol/blob/master/schedule.md) to see the course schedule. Other changes may be verbally announced in class. Students are responsible for all information given in class, even if they are absent.
