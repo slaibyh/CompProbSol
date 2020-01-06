@@ -2,8 +2,8 @@
 
 |Date |	Topics | Reference | Homework | Notes|
 |-----| -----|-----|-----|-----|
-|Jan 7 | Course Introduction/Group Problem/Technical Set-up | Blackboard Instructions | Install MATLAB ||
-|Jan 9 |	Code files and Notebooks in MATLAB | [MATLAB Live Editor](https://www.mathworks.com/help/matlab/matlab_prog/format-live-scripts.html), [m files](http://ctms.engin.umich.edu/CTMS/index.php?aux=Extras_Mfile)	| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/), Register with [GitHub](https://github.com), and Download GitHub desktop |MATLAB should be installed|
+|Jan 7 | Course Introduction/Group Problem/Technical Set-up | Blackboard Instructions | Install MATLAB, Problem #1 ||
+|Jan 9 |	Code files and Notebooks in MATLAB | [MATLAB Live Editor](https://www.mathworks.com/help/matlab/matlab_prog/format-live-scripts.html), [m files](http://ctms.engin.umich.edu/CTMS/index.php?aux=Extras_Mfile)	| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/), Register with [GitHub](https://github.com), and Download GitHub desktop |MATLAB should be installed, Problem #1 should be submitted|
 |Jan 14	| GitHub Introduction |	[GitHub.com](https://github.com)	| Email me your GitHub Username, *Push up* a repository|GitHub Desktop should be installed|
 |Jan 16	| Operations/Arrays	| [MATLAB Doc](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)| |	|
 |Jan 21	| Importing and Exporting Data	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | |	|
