@@ -1,6 +1,6 @@
 # Course Schedule
 
-|Date |	Topics | Reference | Homework | Notes|
+|Date |	Topics | Reference | Homework | By Class time|
 |-----| -----|-----|-----|-----|
 |Jan 7 | Course Introduction/Group Problem/Technical Set-up | Blackboard Instructions | Install MATLAB, Problem #1 ||
 |Jan 9 |	Code files and Notebooks in MATLAB | [MATLAB Live Editor](https://www.mathworks.com/help/matlab/matlab_prog/format-live-scripts.html), [m files](http://ctms.engin.umich.edu/CTMS/index.php?aux=Extras_Mfile)	| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/), Register with [GitHub](https://github.com), email me username, and Download GitHub desktop |MATLAB should be installed, Problem #1 should be submitted|
