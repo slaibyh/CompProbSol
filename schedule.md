@@ -11,7 +11,7 @@
 |Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| ||
 |Jan 30 | Loop Controls |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)|  |	|	
 |Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		|
-|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)|BB Powerpoint: Good Programming Practices | ||
+|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)| | ||
 
 <!----
 | Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
@@ -38,3 +38,4 @@ Apr 14 |
 [Python Loops](https://docs.python.org/3/tutorial/controlflow.html),
 [Python Bitwise Operators](https://wiki.python.org/moin/BitwiseOperators)
 [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html) 
+BB Powerpoint: Good Programming Practices
