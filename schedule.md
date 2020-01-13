@@ -4,10 +4,10 @@
 |-----| -----|-----|-----|-----|
 |Jan 7 | Course Introduction/Group Problem/Technical Set-up | Blackboard Instructions | Install MATLAB, Problem #1, Complete [survey](https://www.surveymonkey.com/r/FN9Z6WM) before leaving class||
 |Jan 9 |	Code files, live editor, and data types in MATLAB | [MATLAB Live Editor](https://www.mathworks.com/help/matlab/matlab_prog/format-live-scripts.html), [m files](http://ctms.engin.umich.edu/CTMS/index.php?aux=Extras_Mfile), [data types](https://www.mathworks.com/help/matlab/data-types.html)| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/), Register with [GitHub](https://github.com), email me username, Download GitHub desktop, Complete Problem #2 |MATLAB should be installed, Problem #1 should be submitted|
-|Jan 14	| GitHub Introduction and Problem #2 |	[GitHub.com](https://github.com)	| *Push up* your repository containing Problem #2 and updates described in Problem #3|GitHub Desktop should be installed, MATLAB Onramp completed and certificate sent|
-|Jan 16	| Operations/Arrays and Data Types	| [MATLAB Doc](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)|  |Problem #3 Finished	|
-|Jan 21	| Importing and Exporting Data	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | |	|
-| Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html) | | |
+|Jan 14	| GitHub Introduction and Problem #2 |	[GitHub.com](https://github.com)	| *Push up* your repository containing Problem #2 with updates described in Problem #2a|GitHub Desktop should be installed, MATLAB Onramp completed and certificate sent|
+|Jan 16	| Operations/Arrays and Data Types	| [MATLAB Doc](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)| Problem #3 |Problem #2/2a Finished	|
+|Jan 21	| Importing and Exporting Data	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | Problem #4 |	Problem #3 Finished |
+| Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html) | Problem #4a | |
 |Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| ||
 |Jan 30 | Loop Controls |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)|  |	|	
 |Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		|
