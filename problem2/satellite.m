@@ -8,3 +8,5 @@ M = 5.98*10^(24);
 T =T*60; % convert to sec
 h = (G*M*T^2/(4*pi^2))^(1/3)-R; %height in meters
 h = h/1000
+
+% Answer questions in the comments of your program
