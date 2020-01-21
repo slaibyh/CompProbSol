@@ -8,11 +8,13 @@
 |Jan 16	| Operations/Arrays and Data Types	| [MATLAB Doc](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)| Problem #3 |Problem #2/2a Finished	|
 |Jan 21	| Importing and Exporting Data	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | Problem #4 |	Problem #3 Finished |
 | Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html) | Problem #4a | |
-|Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| ||
-|Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)|  |	|	
+|Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| Problem 4/4a Wrap-up||
+|Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)| Problem #5 | Problem 4 Finished	|	
 |Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		|
 |Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)| | ||
-
+Feb 11 | | |
+Feb 13 | | | 
+Feb 18 | |  |
 <!----
 | Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
 | Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
