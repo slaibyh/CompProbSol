@@ -6,15 +6,15 @@
 |Jan 9 |	Code files, live editor, and data types in MATLAB | [MATLAB Live Editor](https://www.mathworks.com/help/matlab/matlab_prog/format-live-scripts.html), [m files](http://ctms.engin.umich.edu/CTMS/index.php?aux=Extras_Mfile), [data types](https://www.mathworks.com/help/matlab/data-types.html)| [Complete MATLAB Onramp](https://matlabacademy.mathworks.com/), Register with [GitHub](https://github.com), email me username, Download GitHub desktop, Complete Problem #2 |MATLAB should be installed, Problem #1 should be submitted|
 |Jan 14	| GitHub Introduction and Problem #2 |	[GitHub.com](https://github.com)	| *Push up* your repository containing Problem #2 with updates described in Problem #2a|GitHub Desktop should be installed, MATLAB Onramp completed and certificate sent|
 |Jan 16	| Operations/Arrays and Data Types	| [MATLAB Doc](https://www.mathworks.com/help/matlab/matrices-and-arrays.html)| Problem #3 |Problem #2/2a Finished	|
-|Jan 21	| Importing and Exporting Data	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | Problem #4 |	Problem #3 Finished |
+|Jan 21	| Importing and Exporting Data/Some debugging tips	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | Problem #4 |	Problem #3 Finished |
 | Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html) | Problem #4a | |
 |Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| Problem 4/4a Wrap-up||
 |Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)| Problem #5 | Problem 4 Finished	|	
 |Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | |		|
 |Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)| | ||
-Feb 11 | | |
-Feb 13 | | | 
-Feb 18 | |  |
+|Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | |
+|Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), | | Python Installed|
+|Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | ||
 <!----
 | Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
 | Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
@@ -37,7 +37,7 @@ Apr 7	|
 Apr 9	|		
 Apr 14 |
 [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/)
-[Python Loops](https://docs.python.org/3/tutorial/controlflow.html),
+,
 [Python Bitwise Operators](https://wiki.python.org/moin/BitwiseOperators)
 [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html) 
 BB Powerpoint: Good Programming Practices
