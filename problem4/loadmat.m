@@ -1,2 +1,2 @@
-% Starting point for Jan. 17
+% Starting point for Problem 4
 load('smallperiodictable')
