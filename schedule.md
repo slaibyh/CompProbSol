@@ -9,11 +9,11 @@
 |Jan 21	| Importing and Exporting Data/Some debugging tips	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html) | Problem #4 |	Problem #3 Finished |
 | Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html) | Problem #4a | |
 |Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav)| Problem 4/4a Wrap-up||
-|Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)| Problem #5 | Problem 4 Finished	|	
+|Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/)| Problem #5 | Problem 4/4a Finished	|	
 |Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html) | Problem 5a|		|
-|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)| | ||
-|Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | |
-|Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), |Problem 6 | Python Installed, Problem 5 finished|
+|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html)|Problem 2b | ||
+|Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | Problem 5/5a finished |
+|Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), |Problem 6 | Python Installed|
 |Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | ||
 <!----
 | Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
