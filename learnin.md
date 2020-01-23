@@ -1,5 +1,10 @@
 # New Knowledge
 
+## Pointers
+1. Steal Dr. Kelley's example code
+1. Looking at documentation is a good thing - using just a couple keywords usually yields results.
+
+
 ## Open Questions
 
 1. Command line: how do you navigate?? Look at `cd` and `dir`
@@ -23,6 +28,8 @@
 1. `disp` -> prints to command line
 1. Toolboxes can be installed for free from toolbar
 1. Documentation is updated on mathworks website, but there is built in doc as well
+1. Loading files `load('smallperiodtable')` will always load the .mat file (if no extension)
+1. Loading files with `load('CompProbSol/problem4/smallperiodtable')`
 ## General
 1. Know your extensions (saving file with wrong, it's trouble).
 1. Graphics have thousands of options
