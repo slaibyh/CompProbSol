@@ -9,10 +9,10 @@
 |Jan 21	| Importing and Exporting Data/Some debugging tips	|[MATLAB Doc](https://www.mathworks.com/help/matlab/data_analysis/importing-and-exporting-data.html), `PresentIO.mlx` | Problem #4 |	Problem #3 Finished |
 | Jan 23 |Structures and Tables | [MATLAB Structures](https://www.mathworks.com/help/matlab/matlab_prog/create-a-structure-array.html), [MATLAB Table](https://www.mathworks.com/help/matlab/tables.html), `PresentStructures.mlx` | Problem #4a | |
 |Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav), `PresentVisual.mlx`| Problem 4/4a/4b Wrap-up||
-|Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/), `PresentControl.mlx`| Problem 5 | Problem 4/4a/4b Finished	|	
-|Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html), `PresentFunction.mlx` | Problem 5a|		|
-|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html),`PresentError.mlx`|Problem 2b, Problem 5b | ||
-|Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | Problem 5/5a finished |
+|Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/), `PresentControl.mlx`| Problem 2b | Problem 4/4a/4b Finished	|	
+|Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html), `PresentFunction.mlx` | Problem 5|		|
+|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html),`PresentError.mlx`| | |Problelm 2b finished|
+|Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | Problem 5 finished |
 |Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), |Problem 6 | Python Installed|
 |Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | ||
 <!----
