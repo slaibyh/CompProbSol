@@ -11,10 +11,26 @@
 |Jan 28	| Visualizations		|[MATLAB Doc](https://www.mathworks.com/products/matlab/plot-gallery.html), [ThingSpeak](https://www.mathworks.com/help/thingspeak/index.html?s_tid=CRUX_lftnav), `PresentVisual.mlx`| Problem 4/4a/4b Wrap-up||
 |Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/), `PresentControl.mlx`| Problem 2b | Problem 4/4a/4b Finished	|	
 |Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html), `PresentFunction.mlx` | Problem 5|		|
-|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html),`PresentError.mlx`|Problem 5a |Problelm 2b finished|
+|Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html),`PresentError.mlx`|Problem 5 |Problem 2b finished|
 |Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | Problem 5/5a finished |
 |Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), |Problem 6 | Python Installed|
 |Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | ||
+|Feb 20| ||||
+|Feb 25| ||||
+|Feb 27| Midterm Exam ||||
+|Spring Break Week| ||||
+|Mar 10| ||||
+|Mar 12| ||||
+|Mar 17| ||||
+|Mar 19| ||||
+|Mar 24| ||||
+|Mar 26| ||||
+|Mar 31| ||||
+|Apr 2| ||||
+|Apr 7| ||||
+|Apr 9| ||||
+|Apr 14| ||||
+|Apr 2| ||||
 <!----
 | Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
 | Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
