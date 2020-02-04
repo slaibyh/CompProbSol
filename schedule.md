@@ -16,11 +16,11 @@
 |Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), |Problem 6 | Python Installed|
 |Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | ||
 |Feb 20| ||||
-|Feb 25| ||||
+|Feb 25| |||Final Project Topic |
 |Feb 27| Midterm Exam ||||
 |Spring Break Week| ||||
 |Mar 10| ||||
-|Mar 12| ||||
+|Mar 12| |||Final Project Proposal|
 |Mar 17| ||||
 |Mar 19| ||||
 |Mar 24| ||||
@@ -29,8 +29,8 @@
 |Apr 2| ||||
 |Apr 7| ||||
 |Apr 9| ||||
-|Apr 14| ||||
-|Apr 2| ||||
+|Apr 14|  ||||
+
 <!----
 | Feb 4 | Functions in Python (Writing your own Packages) |[Python Functions](https://www.tutorialspoint.com/python/python_functions.htm), [matploblib animations](https://matplotlib.org/api/animation_api.html) | |
 | Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html), [Python Error Handling](https://realpython.com/python-exceptions/)|BB Powerpoint: Good Programming Practices
