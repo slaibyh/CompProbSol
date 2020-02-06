@@ -1,6 +1,4 @@
-
-%Input
-T =input('Input the bodys orbital period in minutes:  ');
+function [hkm,vkm] = satfunc(T)
 % Define constants: earth radius, G, earth mass
 R = 6.371*10^6; 
 G = 6.67*10^(-11);
@@ -12,5 +10,6 @@ T = T*60; % convert to sec
 hm = (G*M*T^2/(4*pi^2))^(1/3)-R; % height in meters
 vm =  sqrt(G*M./(hm+R));
 format bank
-hkm = hm/1000 % convert h to km
-vkm = vm/1000 % convert v to km/s
+hkm = hm/1000; % convert h to km
+vkm = vm/1000; % convert v to km/s
+end
