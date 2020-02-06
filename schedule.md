@@ -12,11 +12,11 @@
 |Jan 30 | Control Statements |  [MATLAB Doc](http://www.mathworks.com/help/matlab/), `PresentControl.mlx`| Problem 2b | Problem 4/4a/4b Finished	|	
 |Feb 4 |	Writing Functions in MATLAB | [MATLAB Functions](https://www.mathworks.com/help/matlab/ref/function.html), `PresentFunction.mlx` | Problem 5|		|
 |Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html),`PresentError.mlx`|Problem 5 |Problem 2b finished|
-|Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | Problem 5/5a finished |
+|Feb 11 | Project 1 Introduction and outline | | Project #1, Install Python | Problem 5 finished |
 |Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), |Problem 6 | Python Installed|
-|Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | ||
-|Feb 20| ||||
-|Feb 25| |||Final Project Topic |
+|Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | Problem 6a||
+|Feb 20|Functions in Python (Writing your own Packages) | [Python Functions](https://www.tutorialspoint.com/python/python_functions.htm)|||
+|Feb 25| |||Email Final Project Topic |
 |Feb 27| Midterm Exam ||||
 |Spring Break Week| ||||
 |Mar 10| ||||
