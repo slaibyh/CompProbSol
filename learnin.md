@@ -3,15 +3,16 @@
 ## Pointers
 1. Steal Dr. Kelley's example code
 1. Looking at documentation is a good thing - using just a couple keywords usually yields results.
+1. Github has a whole markdown language
 1. Be careful when naming variables, don't use an already used keyword or function
 
 ## Open Questions
 
 1. Command line: how do you navigate?? Look at `cd` and `dir`
 1. When to use brackets, partheneses? MATLAB/python puzzle
-1. Desktop github app? What the...?
+3. Desktop github app? What the...?
 1. What is Dr. Kelley's PhD on  - The dynamics and thermodynamics of soft-wall AdS/QCD - related to RHIC.
-1. Indexing arrays - `[r,c]`, how does it work? We will talk about this on 1.16.
+5. Indexing arrays - `[r,c]`, how does it work? We will talk about this on 1.16.
 1. Is there a fair 7-sided di?
 1. What data sets should we use with MATLAB for efficiency ?
 1. Syntax can be tricky
