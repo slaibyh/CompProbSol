@@ -1,3 +1,8 @@
+First Reads
+============
+1. [Why is Programming So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/)
+1. [Programming is hard](https://www.freecodecamp.org/news/make-your-hobby-harder-programming-is-difficult-thats-why-you-should-learn-it-e4627aee41a1/)
+
 MATLAB
 ======
 
