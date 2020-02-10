@@ -22,13 +22,9 @@
 |Mar 10 |Numerical Derivatives | [Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf) | Numerical Derivative Powerpoint on Blackboard||
 |Mar 12 |Numerical Integration|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf)| Integration Powerpoint on BB||
 |Mar 17 | Finer Points on Numerical Integration and Error Estimation |[Romberg Method](https://en.wikipedia.org/wiki/Romberg%27s_method)|	||
-
-|Mar 10| ||||
-|Mar 12| |||Final Project Proposal|
-|Mar 17| ||||
-|Mar 19| ||||
-|Mar 24| ||||
-|Mar 26| ||||
+|Mar 19 |ODE Solvers	| [Runge-Kutta Method](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods), [Choosing a MATLAB function](https://www.mathworks.com/help/matlab/math/choose-an-ode-solver.html), [Starting point in MathWorks Doc](https://www.mathworks.com/help/matlab/ordinary-differential-equations.html)|||
+|Mar 24 | ODE Solvers		|[Scipy Doc for ODEs](https://docs.scipy.org/doc/scipy/reference/integrate.html), [ODEs Examples in Python's Scipy](https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations)| ||
+|Mar 26 | 2nd Order Differential Equations | [2nd to 1st order Reference sheet](https://projects.ncsu.edu/crsc/events/ugw05/slides/root_handout2.pdf)| Writing a program together||
 |Mar 31| ||||
 |Apr 2| ||||
 |Apr 7| ||||
