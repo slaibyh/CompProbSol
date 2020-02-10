@@ -21,7 +21,7 @@
 |Spring Break Week| ||||
 |Mar 10 |Numerical Derivatives | [Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf) | Numerical Derivative Powerpoint on Blackboard||
 |Mar 12 |Numerical Integration|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf)| Integration Powerpoint on BB||
-|Mar 17 | Finer Points on Numerical Integration and Error Estimation |[Romberg Method](https://en.wikipedia.org/wiki/Romberg%27s_method)|	
+|Mar 17 | Finer Points on Numerical Integration and Error Estimation |[Romberg Method](https://en.wikipedia.org/wiki/Romberg%27s_method)|	||
 
 |Mar 10| ||||
 |Mar 12| |||Final Project Proposal|
