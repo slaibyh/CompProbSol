@@ -14,11 +14,15 @@
 |Feb 6 | Documentation, Errors, Odds and ends| [MATLAB Errors](https://www.mathworks.com/help/matlab/error-handling.html), [MException obj](https://www.mathworks.com/help/matlab/matlab_prog/capture-information-about-errors.html),`PresentError.mlx`|Problem 5 |Problem 2b finished|
 |Feb 11 | Project 1 Introduction and outline | Project 1 | Project #1, Install Python | Problem 5 finished |
 |Feb 13 |Introduction to Python | [Python Loops](https://docs.python.org/3/tutorial/controlflow.html), [matplotlib Doc](https://matplotlib.org/users/pyplot_tutorial.html), |Problem 6 | Python Installed|
-|Feb 18 | Python Data Types and Data Structures| [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/) | Problem 6a||
+|Feb 18 | Python Data Types and Data Structures|[Python Data Structures](https://docs.python.org/3/tutorial/datastructures.html), [pandas Doc](http://pandas.pydata.org/pandas-docs/stable/)  | Problem 6a||
 |Feb 20|Functions in Python (Writing your own Packages) | [Python Functions](https://www.tutorialspoint.com/python/python_functions.htm)|||
-|Feb 25| |||Email Final Project Topic |
+|Feb 25| The Pandas package|[Pandas dataframe](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html)||Email Final Project Topic |
 |Feb 27| Midterm Exam ||||
 |Spring Break Week| ||||
+|Mar 10 |Numerical Derivatives | [Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf) | Numerical Derivative Powerpoint on Blackboard||
+|Mar 12 |Numerical Integration|[Computational Physics Book Chapter 5](http://www-personal.umich.edu/~mejn/cp/chapters/int.pdf)| Integration Powerpoint on BB||
+|Mar 17 | Finer Points on Numerical Integration and Error Estimation |[Romberg Method](https://en.wikipedia.org/wiki/Romberg%27s_method)|	
+
 |Mar 10| ||||
 |Mar 12| |||Final Project Proposal|
 |Mar 17| ||||
