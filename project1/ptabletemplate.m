@@ -27,7 +27,7 @@ be = av*A - as*A^(2/3) - ac*Z*(Z-1)/A^(1/3)-aa*(A-2*Z)^(2)/A;
 % the next if statements don't work, the percent signs are trying to mod A
 % and mod Z, but you need to look up the syntax and figure out what is
 % going on below. Or we could do it together in class on 2/11
-if A%2==0
+if mod(A,2)==0
     if Z%2==0
         be = be + ap/sqrt(A);
     else
